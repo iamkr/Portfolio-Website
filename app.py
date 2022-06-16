@@ -3,7 +3,6 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 from streamlit_lottie import st_lottie
-from st_on_hover_tabs import on_hover_tabs
 from PIL import Image
 import requests
 
